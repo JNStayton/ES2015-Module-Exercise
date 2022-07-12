@@ -19,8 +19,8 @@ This file should export two array helper functions:
 - src/foods.js
 This file should export this array of fruits:
 
-```
-JS[
+```javascript
+let fruits = [
   "🍇", "🍈", "🍉", "🍊", "🍋", "🍌", "🍍", "🍎",
   "🍏", "🍐", "🍒", "🍓", "🥝", "🍅", "🥑",
 ];
